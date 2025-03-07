@@ -1,5 +1,5 @@
 ---
-# Template for VTU SGPA CGPA Calculator:
+# 🎓 Template for VTU SGPA CGPA Calculator:
 
 ### 📌 Introduction
 - This project is a web-based SGPA/CGPA calculator specifically designed for Visvesvaraya Technological University (VTU) students.
