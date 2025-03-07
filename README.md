@@ -21,8 +21,8 @@ Logic & Functionality: JavaScript
  
 ### 🔧 How to Use
 - Clone the Repository:
-"git clone https://github.com/your-username/SGPA-CGPA-Calculator.git
-cd SGPA-CGPA-Calculator"
+- "git clone **https://github.com/your-username/SGPA-CGPA-Calculator.git**
+   cd SGPA-CGPA-Calculator"
 ---
 
 Run the Project:
