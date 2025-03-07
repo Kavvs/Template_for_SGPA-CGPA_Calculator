@@ -1,9 +1,9 @@
 ---
-## Template for VTU SGPA CGPA Calculator:
+# Template for VTU SGPA CGPA Calculator:
 
 ### 📌 Introduction
-This project is a web-based SGPA/CGPA calculator specifically designed for Visvesvaraya Technological University (VTU) students.
-It simplifies the process of computing Semester Grade Point Average (SGPA) for individual semesters and tracking the overall Cumulative Grade Point Average (CGPA).
+- This project is a web-based SGPA/CGPA calculator specifically designed for Visvesvaraya Technological University (VTU) students.
+- It simplifies the process of computing Semester Grade Point Average (SGPA) for individual semesters and tracking the overall Cumulative Grade Point Average (CGPA).
 ---
 
 ### 🚀 Features
@@ -40,11 +40,11 @@ Run the Project:
 ---
 
 ### 🎯 Contribution
-> Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 ---
 
 ### 📜 License
-> This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT License.
 ---
 
 ### 💡 Developed to help students track their academic performance effortlessly!
