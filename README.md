@@ -21,8 +21,8 @@ Logic & Functionality: JavaScript
  
 ### 🔧 How to Use
 - Clone the Repository:
-**git clone https://github.com/your-username/SGPA-CGPA-Calculator.git
-cd SGPA-CGPA-Calculator**
+"git clone https://github.com/your-username/SGPA-CGPA-Calculator.git
+cd SGPA-CGPA-Calculator"
 ---
 
 Run the Project:
@@ -40,11 +40,11 @@ Run the Project:
 ---
 
 ### 🎯 Contribution
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+- Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
 ---
 
 ### 📜 License
-This project is open-source and available under the MIT License.
+- This project is open-source and available under the MIT License.
 ---
 
 ### 💡 Developed to help students track their academic performance effortlessly!
